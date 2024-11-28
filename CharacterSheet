@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aelira Duskwind - Character Sheet</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Aelira Duskwind</h1>
+        <h2>Level 20 Warlock Character Sheet</h2>
+    </header>
+
+    <main>
+        <section>
+            <h3>Basic Info</h3>
+            <ul>
+                <li><strong>Race:</strong> Half-Elf</li>
+                <li><strong>Class:</strong> Warlock (The Great Old One Patron, Pact of the Tome)</li>
+                <li><strong>Background:</strong> Haunted One</li>
+                <li><strong>Alignment:</strong> Chaotic Neutral</li>
+                <li><strong>Level:</strong> 20</li>
+            </ul>
+        </section>
+
+        <section>
+            <h3>Ability Scores</h3>
+            <ul>
+                <li><strong>Strength:</strong> 8 (-1)</li>
+                <li><strong>Dexterity:</strong> 14 (+2)</li>
+                <li><strong>Constitution:</strong> 14 (+2)</li>
+                <li><strong>Intelligence:</strong> 12 (+1)</li>
+                <li><strong>Wisdom:</strong> 12 (+1)</li>
+                <li><strong>Charisma:</strong> 20 (+5)</li>
+            </ul>
+        </section>
+
+        <section>
+            <h3>Key Features at Level 20</h3>
+            <ul>
+                <li><strong>The Great Old One Patron:</strong>
+                    <ul>
+                        <li>Awakened Mind: Telepathic communication within 30 feet.</li>
+                        <li>Entropic Ward: Impose disadvantage on attacks.</li>
+                        <li>Thought Shield: Immune to psychic damage; reflects damage back.</li>
+                        <li>Create Thrall: Indefinitely charm an incapacitated humanoid.</li>
+                    </ul>
+                </li>
+                <li><strong>Pact of the Tome:</strong> Grants additional cantrips and rituals.</li>
+                <li><strong>Mystic Arcanum:</strong>
+                    <ul>
+                        <li>6th Level: Mental Prison</li>
+                        <li>7th Level: Crown of Stars</li>
+                        <li>8th Level: Demiplane</li>
+                        <li>9th Level: True Polymorph</li>
+                    </ul>
+                </li>
+                <li><strong>Eldritch Master:</strong> Regain all spell slots once per long rest.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h3>Spells</h3>
+            <h4>Cantrips</h4>
+            <ul>
+                <li>Eldritch Blast</li>
+                <li>Prestidigitation</li>
+                <li>Thaumaturgy</li>
+                <li>Guidance</li>
+                <li>Mage Hand</li>
+                <li>Minor Illusion</li>
+            </ul>
+            <h4>Known Spells</h4>
+            <ul>
+                <li>1st Level: Hex, Disguise Self</li>
+                <li>2nd Level: Misty Step, Hold Person</li>
+                <li>3rd Level: Counterspell, Fear</li>
+                <li>4th Level: Greater Invisibility, Phantasmal Killer</li>
+                <li>5th Level: Synaptic Static, Wall of Force</li>
+            </ul>
+        </section>
+
+        <section>
+            <h3>Equipment</h3>
+            <ul>
+                <li>Rod of the Pact Keeper +3</li>
+                <li>Cloak of Displacement</li>
+                <li>Amulet of Health</li>
+                <li>Tome of Leadership and Influence</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>Designed for Dungeons & Dragons 5th Edition</p>
+    </footer>
+</body>
+</html>
